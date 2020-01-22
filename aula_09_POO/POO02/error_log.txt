@@ -1,0 +1,57 @@
+============================================
+
+segunda-feira, 30 de setembro de 2019
+11:51
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at POO02.Controllers.ProdutoController.CadastrarProdutos() in C:\Users\fic\Desktop\Backend_Csharp_Senai\aula_09_POO\POO02\Controllers\ProdutoController.cs:line 26
+
+============================================
+============================================
+
+segunda-feira, 30 de setembro de 2019
+11:52
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at POO02.Controllers.ProdutoController.CadastrarProdutos() in C:\Users\fic\Desktop\Backend_Csharp_Senai\aula_09_POO\POO02\Controllers\ProdutoController.cs:line 26
+
+============================================
+============================================
+
+segunda-feira, 30 de setembro de 2019
+11:52
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at POO02.Controllers.ProdutoController.CadastrarProdutos() in C:\Users\fic\Desktop\Backend_Csharp_Senai\aula_09_POO\POO02\Controllers\ProdutoController.cs:line 26
+
+============================================
+============================================
+
+segunda-feira, 30 de setembro de 2019
+11:59
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(ReadOnlySpan`1 str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(ReadOnlySpan`1 s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at POO02.Controllers.ProdutoController.CadastrarProdutos() in C:\Users\fic\Desktop\Backend_Csharp_Senai\aula_09_POO\POO02\Controllers\ProdutoController.cs:line 14
+
+============================================
+============================================
+
+segunda-feira, 30 de setembro de 2019
+12:01
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(ReadOnlySpan`1 str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(ReadOnlySpan`1 s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at POO02.Controllers.ProdutoController.CadastrarProdutos() in C:\Users\fic\Desktop\Backend_Csharp_Senai\aula_09_POO\POO02\Controllers\ProdutoController.cs:line 14
+
+============================================
+============================================
+
+segunda-feira, 30 de setembro de 2019
+12:03
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(ReadOnlySpan`1 str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(ReadOnlySpan`1 s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at POO02.Controllers.ProdutoController.CadastrarProdutos() in C:\Users\fic\Desktop\Backend_Csharp_Senai\aula_09_POO\POO02\Controllers\ProdutoController.cs:line 14
+
+============================================

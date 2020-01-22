@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\senai-backend-c-\Dojo\bin\Debug\netcoreapp2.2\Dojo.deps.json
+C:\Users\fic\Desktop\senai-backend-c-\Dojo\bin\Debug\netcoreapp2.2\Dojo.runtimeconfig.json
+C:\Users\fic\Desktop\senai-backend-c-\Dojo\bin\Debug\netcoreapp2.2\Dojo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\senai-backend-c-\Dojo\bin\Debug\netcoreapp2.2\Dojo.dll
+C:\Users\fic\Desktop\senai-backend-c-\Dojo\bin\Debug\netcoreapp2.2\Dojo.pdb
+C:\Users\fic\Desktop\senai-backend-c-\Dojo\obj\Debug\netcoreapp2.2\Dojo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\senai-backend-c-\Dojo\obj\Debug\netcoreapp2.2\Dojo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\senai-backend-c-\Dojo\obj\Debug\netcoreapp2.2\Dojo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\senai-backend-c-\Dojo\obj\Debug\netcoreapp2.2\Dojo.AssemblyInfo.cs
+C:\Users\fic\Desktop\senai-backend-c-\Dojo\obj\Debug\netcoreapp2.2\Dojo.dll
+C:\Users\fic\Desktop\senai-backend-c-\Dojo\obj\Debug\netcoreapp2.2\Dojo.pdb

@@ -1,0 +1,11 @@
+C:\Users\maria\Desktop\Backend_Csharp_Senai\exercicios_aula_04\ex_05\b\obj\Debug\netcoreapp2.2\b.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Backend_Csharp_Senai\exercicios_aula_04\ex_05\b\obj\Debug\netcoreapp2.2\b.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Backend_Csharp_Senai\exercicios_aula_04\ex_05\b\obj\Debug\netcoreapp2.2\b.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\Backend_Csharp_Senai\exercicios_aula_04\ex_05\b\obj\Debug\netcoreapp2.2\b.AssemblyInfo.cs
+C:\Users\maria\Desktop\Backend_Csharp_Senai\exercicios_aula_04\ex_05\b\bin\Debug\netcoreapp2.2\b.deps.json
+C:\Users\maria\Desktop\Backend_Csharp_Senai\exercicios_aula_04\ex_05\b\bin\Debug\netcoreapp2.2\b.runtimeconfig.json
+C:\Users\maria\Desktop\Backend_Csharp_Senai\exercicios_aula_04\ex_05\b\bin\Debug\netcoreapp2.2\b.runtimeconfig.dev.json
+C:\Users\maria\Desktop\Backend_Csharp_Senai\exercicios_aula_04\ex_05\b\bin\Debug\netcoreapp2.2\b.dll
+C:\Users\maria\Desktop\Backend_Csharp_Senai\exercicios_aula_04\ex_05\b\bin\Debug\netcoreapp2.2\b.pdb
+C:\Users\maria\Desktop\Backend_Csharp_Senai\exercicios_aula_04\ex_05\b\obj\Debug\netcoreapp2.2\b.dll
+C:\Users\maria\Desktop\Backend_Csharp_Senai\exercicios_aula_04\ex_05\b\obj\Debug\netcoreapp2.2\b.pdb

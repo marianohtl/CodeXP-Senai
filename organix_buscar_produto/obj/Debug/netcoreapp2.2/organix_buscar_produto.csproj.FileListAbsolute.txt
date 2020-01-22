@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\repositórios_sinc\Backend_Csharp_Senai\organix_buscar_produto\obj\Debug\netcoreapp2.2\organix_buscar_produto.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\repositórios_sinc\Backend_Csharp_Senai\organix_buscar_produto\obj\Debug\netcoreapp2.2\organix_buscar_produto.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\repositórios_sinc\Backend_Csharp_Senai\organix_buscar_produto\obj\Debug\netcoreapp2.2\organix_buscar_produto.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\repositórios_sinc\Backend_Csharp_Senai\organix_buscar_produto\obj\Debug\netcoreapp2.2\organix_buscar_produto.AssemblyInfo.cs
+C:\Users\fic\Desktop\repositórios_sinc\Backend_Csharp_Senai\organix_buscar_produto\bin\Debug\netcoreapp2.2\organix_buscar_produto.deps.json
+C:\Users\fic\Desktop\repositórios_sinc\Backend_Csharp_Senai\organix_buscar_produto\bin\Debug\netcoreapp2.2\organix_buscar_produto.runtimeconfig.json
+C:\Users\fic\Desktop\repositórios_sinc\Backend_Csharp_Senai\organix_buscar_produto\bin\Debug\netcoreapp2.2\organix_buscar_produto.runtimeconfig.dev.json
+C:\Users\fic\Desktop\repositórios_sinc\Backend_Csharp_Senai\organix_buscar_produto\bin\Debug\netcoreapp2.2\organix_buscar_produto.dll
+C:\Users\fic\Desktop\repositórios_sinc\Backend_Csharp_Senai\organix_buscar_produto\bin\Debug\netcoreapp2.2\organix_buscar_produto.pdb
+C:\Users\fic\Desktop\repositórios_sinc\Backend_Csharp_Senai\organix_buscar_produto\obj\Debug\netcoreapp2.2\organix_buscar_produto.dll
+C:\Users\fic\Desktop\repositórios_sinc\Backend_Csharp_Senai\organix_buscar_produto\obj\Debug\netcoreapp2.2\organix_buscar_produto.pdb
