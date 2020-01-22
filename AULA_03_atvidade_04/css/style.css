@@ -1,0 +1,172 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    background-color:#DFDFDF ;
+    height: 140px;
+    display: flex;
+    justify-content: space-between;
+} 
+main{
+    height: 793px;
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+
+}
+footer{
+    background-color:#FAF3EC;
+    height: 120px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.rodape{
+    width: 300px;
+    text-align: center;
+}
+
+.section-1, .section-2{
+    display: flex;
+    width: 100%;
+    color: white;
+  
+}
+.quad-1{
+    width: 600px;
+    height: 363px;
+    background-color: #E61D59;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quad-2{
+width: 600px;
+ height: 363px;
+ background-color: #06D6A0;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+header img{
+width: 140px;
+height: 100px;
+}
+
+.menu{
+display: flex;
+list-style: none;
+}
+
+.menu a{
+text-decoration: none;
+list-style:none;
+text-decoration: none;
+margin: 20px;
+color: #707070;
+}
+
+.centro{
+ width: 1200px;
+ height: 100%;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin: auto;
+ 
+}
+
+main h1{
+ margin: 40px;
+ font-size: 20px;
+ font-weight:400;   
+}
+
+.centro-text{
+width: 400px;
+height: 200px;
+text-align: justify; 
+}
+
+
+/* medias queries */
+@media(max-width:1169px){
+    .centro{
+        width: 768px;
+        flex-direction: column;
+        justify-content: center;
+       
+    }
+.container{
+    width: 100%;
+    margin: auto;
+}
+    header img{
+        width: 100px;
+        height: 70px;
+        }
+main{
+    width: 768px;
+    padding: 50px;
+    padding: 0px;
+}
+
+.section-1, .section-2{
+    flex-direction: column;
+    width: 90%;
+    color: white;
+}
+.section-1 img{
+    flex-direction: column;
+    width: 600px;
+}
+.section-2 img{
+    flex-direction: column;
+    width: 600px;
+}
+
+
+
+}
+
+
+
+
+
+@media(max-width:767px){
+.centro{
+    width: 368px;
+    flex-direction: column;
+}
+
+.menu{
+    flex-direction: column;
+    width: 150px;
+    padding-top: 15px;
+}
+.banner{
+    width: 368px;
+}
+.menu li{
+    padding-top: 15px;
+}
+.banner img{
+    display: none;
+}
+.texto_banner{
+    color: black;
+    position: static;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.container{
+    width: 350px;
+}
+}

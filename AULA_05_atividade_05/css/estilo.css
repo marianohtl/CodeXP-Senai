@@ -1,0 +1,145 @@
+*{ margin: 0;}
+.menu{
+list-style: none;
+display: flex;
+width: 320px;
+justify-content: space-between;}
+.menu a{
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+text-transform: uppercase;}
+.menu a:hover, .ativo{
+    color: #dddddd;
+    border-bottom:2px solid #dddddd;
+    padding-bottom: 3px;
+    /* transition: 1s; */
+}
+header{background-color:#FF0909;}
+nav{width: 1366px;
+margin: auto;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 15px 0;}
+.banner{
+    width: 1366px;
+    margin: auto;
+    position: relative;
+}
+.container{
+    width: 1170px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-bottom: 30px;
+}
+
+.card{
+    width:350px;
+    line-height: 2.0;
+    margin-top: 60px;
+}
+.card p{
+padding-bottom: 15px;
+padding-top: 15px;
+
+}
+
+.btn{
+    background-color: #FF0909;
+    color:white;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 4px;
+}
+.btn:hover{
+    background-color:white;
+    color: #FF0909;
+    border: solid 1px #FF0909;
+}
+
+.texto_banner{
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    color: white;
+}
+
+.t1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.t2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.texto_banner p{
+    margin-bottom: 20px;
+}
+
+footer{
+    background-color: #FF0909;
+    color:white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px 0 30px 0;
+}
+
+/* medias queries */
+@media(max-width:1169px){
+    nav{
+        width: 768px;
+    }
+    .banner img{
+        width: 100%;
+    }
+    .banner{
+        width: 768px;
+    }
+    .texto_banner .t1{
+        font-size: 22px;
+    }
+    .texto_banner .t2{
+        font-size: 15px;
+    }
+    .container{
+        width: 720px;
+    }
+}
+
+/* media smart */
+
+@media(max-width:767px){
+nav{
+    width: 368px;
+    flex-direction: column;
+}
+
+.menu{
+    flex-direction: column;
+    width: 150px;
+    padding-top: 15px;
+}
+.banner{
+    width: 368px;
+}
+.menu li{
+    padding-top: 15px;
+}
+.banner img{
+    display: none;
+}
+.texto_banner{
+    color: black;
+    position: static;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.container{
+    width: 350px;
+}
+}
